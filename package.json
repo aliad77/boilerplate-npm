@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "alia",
   "keywords": ["freecodecamp","node","npm"],
+  "license": "MIT",
   "description": "A simple Node.js project for learning npm and package.json",
   "dependencies": {
     "express": "^4.14.0"
